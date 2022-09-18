@@ -1,0 +1,413 @@
+.first-section{
+    width: 100%;
+    height: 655px;
+    background: url('https://st1.bgr.in/wp-content/uploads/2022/01/OTT-Netflix.jpg');
+    /* filter: blur(5px); */
+    background-size: cover;
+    /* opacity: black; */
+    background-color: rgba(7, 7, 7, 0.5);
+    background-blend-mode: soft-light;
+    /* box-shadow: 20px 20px 30px black; */
+    /* opacity: .5; */
+
+    
+
+}
+.logo-div{
+   width: 50%;
+   height: 100px;
+   /* background-color: black; */
+   float: left;
+
+}
+.image-logo{
+    width: 157px;
+    height: 164px;
+    margin-left: 39px;
+    margin-top: -42px;
+}
+.sign-in{
+   width: 50%;
+   height: 100px;
+   /* background-color: black; */
+   float: left;
+   /* align-items: center; */
+   padding-top: 29px;
+
+
+   
+   
+
+}
+
+.language-select{
+    align-items: center;
+    margin-left: 100px;
+    height: 40px;
+    width: 113px;
+    border-radius: 0.1rem;
+    background: black;
+    color: white;
+    border-width: .1rem;
+    text-align: right;
+    margin-left: 400px;
+
+    /* background-color: #000; */
+    /* color: #fff; */
+    opacity: .5;
+    
+
+}
+.btn{
+    align-items: center;
+    /* margin-left: 100px; */
+    height: 40px;
+    width: 95px;
+    border-radius: 4px;
+    background: rgb(238, 7, 7);
+    color: white;
+    border-width: .1rem;
+    text-align: center;
+    border-color: red;
+    border-radius: 4px;
+    border-width: 0px;;
+    margin-left: 30px;
+
+
+}
+.content{
+    width: 780px;
+    height: 403px;
+    /* background-color: red; */
+    float: left;
+    margin-left: 280px;
+    color: white;
+    
+    
+}
+.first-caption{
+    text-align: center;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400px;
+    font-size: 3.125rem;
+}
+.caption2{
+    text-align: center;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400px;
+    /* margin-top: 5px; */
+}
+.caption3{
+    text-align: center;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400px;
+
+}
+.email{
+    /* border-bottom-right-radius: 0; */
+    /* border-top-right-radius: 0; */
+    height: 60px !important;
+    min-width: 540px;
+    margin-left: 30px;
+}
+.btn2{
+    /* border-bottom-right-radius: 0; */
+    /* border-top-right-radius: 0; */
+    height: 66px !important;
+    min-width: 156px;
+    margin-left: -5px;
+    border-radius: 0px;
+    border-width: 0px;
+    background: rgb(238, 7, 7);
+    color: white;
+    /* font-weight: bold; */
+    font-size: 24px;
+
+}
+.section2{
+    background: black;
+    margin-top: 10px;
+    width: 100%;
+    height: 485px;
+    /* float: left; */
+
+}
+.section2-caption1{
+    width: 680px;
+    height: 400px;
+    /* background: red; */
+    float: left;
+}
+.section2-headContent{
+    /* text-align: center; */
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: .5rem;
+    margin-left: 120px;
+    padding-top: 157px;
+    color: white;
+
+}
+.section2-content{
+    /* text-align: center; */
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 1.625rem;
+    font-weight: 400px;
+    margin-left: 120px;
+    margin-top: 1px;
+    color: white;
+
+}
+.main-div{
+    float: left;
+    width: 680px;
+    height: 400px;
+    /* background:green; */
+
+}
+/* .png-container{ */
+    /* overflow: hidden; */
+    /* position: relative; */
+/* } */
+.video-div{
+    /* background: blue; */
+    margin-top: 94px;
+    width: 354px;
+    margin-bottom: -65px;
+    margin-left: 151px;
+    height: 180px;
+
+}
+.for-image{
+    width: 441px;
+    height: 333px;
+    margin-top: -186px;
+    margin-left: 126px;
+}
+.video-dec{
+    margin-top: 0px;
+    width: 354px;
+    margin-bottom: -65px;
+    margin-left: 17px;
+    height: 180px;
+}
+.section3{
+    background: black;
+    margin-top: 10px;
+    width: 100%;
+    height: 485px;
+    /* float: left; */
+}
+.section3-image-div{
+    width: 680px;
+    height: 460px;
+    /* background: red; */
+    float: left;
+}
+.section3-image-dec{
+    width: 496px;
+    height: 371px;
+    margin-left: 50px;
+
+}
+.section3-image-dec1{
+    width: 297px;
+    height: 65px;
+    background:black;
+    position: absolute;
+    transform: translateX(-50%);
+    margin-top: -108px;
+    margin-left: 294px;
+    border-radius: 9px;
+    border-color: rgb(34, 33, 33);
+    border-width: 1px;
+    border: 2px ridge;
+}
+.section3-small-image{
+    float: left;
+    width: 70px;
+    height: 60px;
+    /* background: green; */
+    margin-left: 6px;
+    margin-top: 2px;
+    
+}
+.image{
+    width: 54px;
+    height: 60px;
+}
+.section3-film-name{
+    float: left;
+    width: 173px;
+    height: 48px;
+    /* background: yellow; */
+    margin-top: 8px;
+}
+.film-name{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: 3px;
+    color: white;
+}
+.download{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: -16px;
+    color: #0071eb;
+    font-size: .75em;
+    font-weight: 518;
+
+}
+.download-button{
+    float: left;
+    width: 46px;
+    height: 58px;
+    /* background: green; */
+    margin-top: 4px;
+
+    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/download-icon.gif) 50% no-repeat;
+    background-size: auto;
+    background-size: 100%;
+    content: "";
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 0;
+    height: 3em;
+    outline: 2px solid #000;
+    outline-offset: -2px;
+    width: 3em;
+
+}
+.section3-content{
+    width: 680px;
+    height: 460px;
+    /* background: rgb(66, 19, 153); */
+    float: left;
+
+
+}
+.section3-content-head{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: .5rem;
+    color: white;
+    margin-top: 91px;
+
+}
+.section3-content-sub{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 1.625rem;
+    font-weight: 400px;
+    color: white;
+
+}
+.section4{
+    background: black;
+    margin-top: 10px;
+    width: 100%;
+    height: 485px;
+
+}
+.section4-content{
+    width: 680px;
+    height: 460px;
+    /* background: rgb(66, 19, 153); */
+    float: left;
+
+}
+.section4-content-head{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: .5rem;
+    color: white;
+    margin-top: 189px;
+    margin-left: 128px;
+
+
+}
+.section4-content-sub{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 1.625rem;
+    font-weight: 400px;
+    color: white;
+    margin-left: 126px;
+
+}
+.section4-image-div{
+    width: 680px;
+    height: 460px;
+    /* background: red; */
+    float: left;
+
+}
+.section4-png-container{
+    width: 557px;
+    height: 340px;
+    /* background: yellow; */
+}
+.section4-video-container{
+    margin-top: 94px;
+    width: 354px;
+    margin-bottom: -65px;
+    margin-left: 151px;
+    height: 180px;
+    /* color: brown; */
+
+
+}
+.section4-video-dec{
+    width: 354px;
+    height: 180px;
+}
+.section4-png-frame{
+    width: 500px;
+    height: 359px;
+    margin-left: 81px;
+    margin-top: -138px;
+}
+.section5{
+    background: black;
+    margin-top: 10px;
+    width: 100%;
+    height: 485px;
+}
+.section5-image-container{
+    width: 680px;
+    height: 460px;
+    /* background: rgb(66, 19, 153); */
+    float: left;
+
+}
+.section5-image-dec{
+    width: 580px;
+    margin-top: 24px;
+    margin-left: 99px;
+}
+.section5-content-div{
+    width: 680px;
+    height: 460px;
+    /* background: rgb(208, 6, 248); */
+    float: left;
+
+
+}
+.section5-content-head{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: .5rem;
+    color: white;
+    margin-top: 100px;
+    margin-left: 45px;
+
+}
+.section5-content-sub{
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 1.625rem;
+    font-weight: 400px;
+    color: white;
+    margin-left: 45px;
+    
+}
+
